@@ -17,3 +17,5 @@ Features:
 * Some debugging options for better control
 
 A simple example of how to connect to a server and receive a list of players is provided.
+
+The code is well commented, both the protocol class and the example.
